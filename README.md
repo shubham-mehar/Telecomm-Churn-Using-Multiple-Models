@@ -1,7 +1,7 @@
 # Telecomm-Churn-Using-Multiple-Models
 
 ### Telecom customer churn prediction
-In this problem i have used multiple Machine Learning models and and also done hyperparameter tuning for prediction which are mentioned below.
+In this project I have used multiple Machine Learning models and and also done hyperparameter tuning for prediction which are mentioned below.
 
 - LOGISTIC REGRESSION
 -  Hyperparameter Optimization in logistic regression
